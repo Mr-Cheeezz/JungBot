@@ -1,0 +1,1 @@
+npm i discord.js dotenv fs node-fetch nodemon pm2 spotify-buddylist string-similarity tmi.js ws
